@@ -1,0 +1,23 @@
+
+:root {
+  --gta-green: #588b39;
+  --gta-green-light: #70a147;
+  --gta-black: #101010;
+  --gta-dark-gray: #1c1c1c;
+  --gta-text: #f0f0f0;
+}
+
+h1 {
+color: #006400;}
+body {
+  background-color: var(--gta-black);
+  color: var(--gta-text);
+  font-family: 'Arial Black', 'Impact', sans-serif;
+  margin: 0;
+  padding: 20px;
+  
+  
+
+  
+}
+
